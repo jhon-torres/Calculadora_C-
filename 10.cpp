@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath>
 using namespace std;
-
+//CALCULADORA CON FUNCIONES
 void menu();
 float suma(float n, float m);
 float resta(float n, float m);
